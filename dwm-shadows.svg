@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright (c) 2014-2017, Laslo Hunhold <dev@frign.de> CC BY 4.0 -->
+
+<svg
+   width="108"
+   height="108"
+   version="1.1"
+   id="svg3511"
+   sodipodi:docname="dwm-shadows.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3515">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter31104"
+       x="-0.136"
+       y="-0.3264"
+       width="1.272"
+       height="1.6528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.44"
+         id="feGaussianBlur31106" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3513"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.308932"
+     inkscape:cx="46.879366"
+     inkscape:cy="68.114326"
+     inkscape:window-width="1340"
+     inkscape:window-height="699"
+     inkscape:window-x="10"
+     inkscape:window-y="53"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3511" />
+  <path
+     d="M 6,50 H 30 V 34 h 8 v 32 h 8 V 50 h 8 v 16 h 8 V 50 h 40 V 74 H 94 V 58 H 86 V 74 H 78 V 58 H 70 V 74 H 6 Z m 24,8 H 14 v 8 h 16 z"
+     fill="#222222"
+     id="path31066"
+     style="fill:#030406;fill-opacity:1;stroke-width:1;filter:url(#filter31104);opacity:0.7" />
+  <path
+     d="M 6,50 H 30 V 34 h 8 v 32 h 8 V 50 h 8 v 16 h 8 V 50 h 40 V 74 H 94 V 58 H 86 V 74 H 78 V 58 H 70 V 74 H 6 Z m 24,8 H 14 v 8 h 16 z"
+     fill="#222222"
+     id="path3509"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1" />
+</svg>
